@@ -1,0 +1,9 @@
+.weather {
+    display: grid;
+    grid-template-columns: 2fr 3fr ;
+    grid-gap: 5px;
+    border-color: darkgreen;
+    border: 1px;
+    padding: 10px;
+
+}
